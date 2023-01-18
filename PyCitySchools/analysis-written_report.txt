@@ -1,0 +1,15 @@
+Written Report:
+
+There are 15 schools in study, and it is assumed that those are all the schools in the local area.
+
+The total budget that the Local Government has assigned to schools (independent and governmental) is $24,649,428.00. Which is distributed in a total number of 39,170 students.
+
+In the school summary, we can conclude that the number of total students in each school is different, and therefore the budget assigned as well. However, the average budget per student is almost same across all schools.
+
+The top performing schools by percentage overall passing the subjects of Maths and Reading, are Griffin High School, Cabrera High School, Bailey High School, Wright High School, and Rodriguez High School, respectively from 1 to 5 in the mentioned order.
+
+The bottom performing schools by percentage overall passing the subjects of Maths and Reading, are Hernandez High School, Huang High School, Johnson High School, Wilson High School, and Ford High School, respectively from 1 to 5 in the mentioned order.
+
+It is also possible to conclude that the average performance, based on the analysis of the scores of maths and reading, is higher in those institutions that have less spending/budget. Furthermore, similarly, the average performance in small size schools is higher than the large size schools. 
+
+Finally, government type schools, show a lower percentage overall passing compared to the independent ones. 
